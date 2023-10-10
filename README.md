@@ -18,10 +18,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-c-silva&" alt="marcelo-c-silva" /></p>
 
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/cerealpuppet/cerealpuppet/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
  
