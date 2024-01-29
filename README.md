@@ -19,7 +19,7 @@
   <img align="center" alt="" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcelo-C-Silva&bg_color=0d1117&color=fdf7f7&line=6352e5&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcelo-C-Silva&bg_color=0d1117&color=fdf7f7&line=6352e5&point=E6E6FA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
   <a href="https://github.com/Marcelo-C-Silva">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcelo-C-Silva&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=4B0082&rank_icon=github&text_color=9370DB&bg_color=0d1117" alt="Marcelo Carneiro github stats" /> 
