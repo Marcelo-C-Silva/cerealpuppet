@@ -4,6 +4,7 @@
 <div align="center">
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelo+Carneiro;I'm+24+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+'-')](https://git.io/typing-svg)
+ <img align="center" src="https://cdn.discordapp.com/attachments/874387729440444427/1106198607058718782/20230511122623YF6n1RFlis.gif?ex=66c7d9fc&is=66c6887c&hm=9d1f81f6800d692749e6ef1a6c3600c59d5507d1fe351de7afca62d67d8a2246&">
 </div>
 <div align="center"> 
   <a href = "mailto:jmarcelocarneiro@edu.unifor.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
