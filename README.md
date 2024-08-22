@@ -29,7 +29,7 @@
  </div>
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marcelo-C-Silva}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marcelo-C-Silva}/count.svg" /> <img align="center" alt="" height="40" width="40" src="https://media.discordapp.net/attachments/874387729440444427/1113627857458049024/85be94350b6cefd78140c8c8232c75e5.gif?ex=66c7da43&is=66c688c3&hm=cf89521402eacede4f985474d2e6a59f6355b4f2edfc0344e983ceaa03d2fd17&="></p> 
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9370DB&fontAlignY=53&reversal=false&section=footer&descAlignY=91&descAlign=31&fontAlign=26"/>
