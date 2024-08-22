@@ -3,7 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9370DB&fontAlignY=53&reversal=false&section=header&descAlignY=91&descAlign=31&fontAlign=26"/>
 <div align="center">
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelo+Carneiro;I'm+24+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+'-')](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelo+Carneiro;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+'-')](https://git.io/typing-svg)
  <img align="center" src="https://cdn.discordapp.com/attachments/874387729440444427/1106198607058718782/20230511122623YF6n1RFlis.gif?ex=66c7d9fc&is=66c6887c&hm=9d1f81f6800d692749e6ef1a6c3600c59d5507d1fe351de7afca62d67d8a2246&">
 </div>
 <div align="center"> 
