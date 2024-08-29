@@ -4,7 +4,7 @@
 <div align="center">
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelo+Carneiro;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+'-')](https://git.io/typing-svg)
- <img align="center" src="https://cdn.discordapp.com/attachments/874387729440444427/1106198607058718782/20230511122623YF6n1RFlis.gif?ex=66c7d9fc&is=66c6887c&hm=9d1f81f6800d692749e6ef1a6c3600c59d5507d1fe351de7afca62d67d8a2246&">
+ <img align="center" src="https://cdn.discordapp.com/attachments/874387729440444427/1106198607058718782/20230511122623YF6n1RFlis.gif?ex=66d1147c&is=66cfc2fc&hm=18d6253ea7319fecc52666c47f056325ece9ecd151e9106d431be3477d6be1e2&">
 </div>
 <div align="center"> 
   <a href = "mailto:jmarcelocarneiro@edu.unifor.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -29,7 +29,7 @@
  </div>
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marcelo-C-Silva}/count.svg" /> <img align="center" alt="" height="40" width="40" src="https://media.discordapp.net/attachments/874387729440444427/1113627857458049024/85be94350b6cefd78140c8c8232c75e5.gif?ex=66c7da43&is=66c688c3&hm=cf89521402eacede4f985474d2e6a59f6355b4f2edfc0344e983ceaa03d2fd17&="></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marcelo-C-Silva}/count.svg" /> <img align="center" alt="" height="40" width="40" src="https://media.discordapp.net/attachments/874387729440444427/1113627857458049024/85be94350b6cefd78140c8c8232c75e5.gif?ex=66d114c3&is=66cfc343&hm=6241ab5f4b9d86d05c5cd0a0e4fd90bd1107907a12ea4a22d831a643b48ada97&="></p> 
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9370DB&fontAlignY=53&reversal=false&section=footer&descAlignY=91&descAlign=31&fontAlign=26"/>
