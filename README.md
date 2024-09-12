@@ -4,7 +4,7 @@
 <div align="center">
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelo+Carneiro;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+'-')](https://git.io/typing-svg)
- <img align="center" src="https://cdn.discordapp.com/attachments/874387729440444427/1106198607058718782/20230511122623YF6n1RFlis.gif?ex=66e2e0bc&is=66e18f3c&hm=5de23c0aca146b1a67c6e8fde3f1289d4c8095b202d10f760a146efb7234147c&">
+ <img align="center" src="https://github.com/Marcelo-C-Silva/Marcelo-C-Silva/blob/main/img/20230511122623YF6n1RFlis.webp">
 </div>
 
 
