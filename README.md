@@ -12,7 +12,10 @@
   <a href="https://www.instagram.com/cerealpuppet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 <div style="display: inline_block" align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,sass,ruby,rails" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,sass,ruby,rails,git" />
+</div>
+<div style="display: inline_block" align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcelo-C-Silva&bg_color=0d1117&color=fdf7f7&line=6352e5&point=E6E6FA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
