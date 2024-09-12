@@ -9,7 +9,7 @@
 
 
 ```txt
-                                 JavaScript  █████████████████░░░ なかなか  Pretty Good
+                                 JavaScript  ████████████░░░░░░░░ まあまあ  Not Bad
                                        HTML  ███████████░░░░░░░░░ まあまあ  Not Bad
                                         CSS  █████████████░░░░░░░ そこそこ  Alright
                                      Muscle  ██░░░░░░░░░░░░░░░░░░ よわよわ  Weak   
