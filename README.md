@@ -9,9 +9,9 @@
 
 
 ```txt
-                                 JavaScript  ████████████░░░░░░░░ まあまあ  Not Bad
                                        HTML  ███████████░░░░░░░░░ まあまあ  Not Bad
                                         CSS  █████████████░░░░░░░ そこそこ  Alright
+                                 JavaScript  ████████████░░░░░░░░ まあまあ  Not Bad
                                      Muscle  ██░░░░░░░░░░░░░░░░░░ よわよわ  Weak   
 ```
 
@@ -36,7 +36,7 @@
  </div>
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marcelo-C-Silva}/count.svg" /> <img align="center" alt="" height="40" width="40" src="https://media.discordapp.net/attachments/874387729440444427/1113627857458049024/85be94350b6cefd78140c8c8232c75e5.gif?ex=66e2e103&is=66e18f83&hm=32e07382c3b6a7b352d51a606a660a8a278848ada963ea61ea4492945a8dbc7e&=&width=411&height=411"></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marcelo-C-Silva}/count.svg" /> <img align="center" alt="" height="40" width="40" src="https://github.com/Marcelo-C-Silva/Marcelo-C-Silva/blob/main/img/85be94350b6cefd78140c8c8232c75e5.gif"></p> 
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9370DB&fontAlignY=53&reversal=false&section=footer&descAlignY=91&descAlign=31&fontAlign=26"/>
