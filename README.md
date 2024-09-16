@@ -40,5 +40,6 @@
 </div>
 
 ![snake gif](https://github.com/Marcelo-C-Silva/Marcelo-C-Silva/blob/output/github-contribution-grid-snake.svg)
+
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9370DB&fontAlignY=53&reversal=false&section=footer&descAlignY=91&descAlign=31&fontAlign=26"/>
