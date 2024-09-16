@@ -38,4 +38,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marcelo-C-Silva}/count.svg" /> <img align="center" alt="" height="40" width="40" src="https://github.com/Marcelo-C-Silva/Marcelo-C-Silva/blob/main/img/85be94350b6cefd78140c8c8232c75e5.gif"></p> 
 <br>
 </div>
+
+![snake gif](https://github.com/Marcelo-C-Silva/Marcelo-C-Silva/blob/output/github-contribution-grid-snake.svg)
+   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9370DB&fontAlignY=53&reversal=false&section=footer&descAlignY=91&descAlign=31&fontAlign=26"/>
