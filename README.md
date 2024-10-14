@@ -4,7 +4,7 @@
 <div align="center">
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelo+Carneiro;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+'-')](https://git.io/typing-svg)
- <img align="center" src="https://github.com/Marcelo-C-Silva/Marcelo-C-Silva/blob/main/img/20230511122623YF6n1RFlis.webp">
+ <img align="center" src="img/experimental-game-CSS-Grid (3).gif"  height="350" width="150">
 </div>
 
 
