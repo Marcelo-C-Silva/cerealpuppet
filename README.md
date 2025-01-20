@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-009873234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div style="display: inline_block" align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,sass,ruby,rails,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,bootstrap,sass,ruby,rails,git" />
 </div>
 <div style="display: inline_block" align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github" />
